@@ -4,5 +4,5 @@
 
 ## Requirements:
 
-[Python 3](https://www.python.org/)
+[Python 3](https://www.python.org/) <br />
 [Tkinter library](https://wiki.python.org/moin/TkInter)
