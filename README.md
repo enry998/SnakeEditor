@@ -1,4 +1,4 @@
-![](1.png)
+![](Documentation/1.png)
 
 # SnakeEditor
 
